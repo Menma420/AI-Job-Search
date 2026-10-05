@@ -1,0 +1,4 @@
+[submodule "_upstream"]
+	path = _upstream
+	url = https://github.com/MadsLorentzen/ai-job-search.git
+	branch = master
